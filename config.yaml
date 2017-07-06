@@ -1,0 +1,6 @@
+local:
+  host: "localhost"
+  port: 6379
+production:
+  host: "XXXXXXXX"
+  port: "XXXXXXXX"
